@@ -4,6 +4,9 @@ nome: str = input("Qual é o seu nome? ")
 print(f"Olá, {nome}!")
 idade: int = int(input("Qual é a sua idade? "))
 print(f"Tu tens {idade} anos...")
+cidade: str = input("Em qual cidade você mora? ")
+print(f"Ah, {cidade} é uma cidade muito bonita!")
+
 
 print("Vamos fazer uma conta?")
 num1: float = float(input("Digite o primeiro número: "))
@@ -23,3 +26,4 @@ if num2 != 0:
 print("conta de subtração")
 sub: float = num1 - num2
 print(f"A subtração de {num1} por {num2} é: {sub}")
+
