@@ -14,3 +14,9 @@ print(f"A soma de {num1} e {num2} é: {soma}")
 print("conta de multiplicação")
 mult: float = num1 * num2
 print(f"A multiplicação de {num1} e {num2} é: {mult}")
+
+print("conta de divisão")
+if num2 != 0:
+    div: float = num1 / num2
+    print(f"A divisão de {num1} por {num2} é: {div}")
+    
