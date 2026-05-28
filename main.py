@@ -4,6 +4,8 @@ nome: str = input("Qual é o seu nome? ")
 print(f"Olá, {nome}!")
 idade: int = int(input("Qual é a sua idade? "))
 print(f"Tu tens {idade} anos...")
+pais: str = input("Em qual país você mora? ")
+print(f"Ah, {pais} é um país incrível!")
 cidade: str = input("Em qual cidade você mora? ")
 print(f"Ah, {cidade} é uma cidade muito bonita!")
 
