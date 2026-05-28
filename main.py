@@ -34,3 +34,4 @@ pot: float = num1 ** num2
 print(f"A potência de {num1} elevado a {num2} é: {pot}")
 
 print("Obrigado por participar da aula de Python!")
+print("Até a próxima!")
