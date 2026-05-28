@@ -29,3 +29,4 @@ print("conta de subtração")
 sub: float = num1 - num2
 print(f"A subtração de {num1} por {num2} é: {sub}")
 
+print("Obrigado por participar da aula de Python!")
