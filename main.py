@@ -10,3 +10,7 @@ num1: float = float(input("Digite o primeiro número: "))
 num2: float = float(input("Digite o segundo número: "))
 soma: float = num1 + num2
 print(f"A soma de {num1} e {num2} é: {soma}")
+
+print("conta de multiplicação")
+mult: float = num1 * num2
+print(f"A multiplicação de {num1} e {num2} é: {mult}")
