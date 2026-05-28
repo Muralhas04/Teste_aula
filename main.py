@@ -20,3 +20,6 @@ if num2 != 0:
     div: float = num1 / num2
     print(f"A divisão de {num1} por {num2} é: {div}")
     
+print("conta de subtração")
+sub: float = num1 - num2
+print(f"A subtração de {num1} por {num2} é: {sub}")
